@@ -1,9 +1,7 @@
 main:
   - title: "Photos"
-    url: /posts/
+    url: /Photos/
   - title: "Shop"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Contact"
-    url: /about/
+    url: /Shop/
+  - title: "Contact & Newsletter"
+    url: /Contact_Newsletter/
