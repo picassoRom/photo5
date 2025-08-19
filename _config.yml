@@ -112,7 +112,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  # Applica splash layout alla home
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
 category_archive:
   type: liquid
   path: /categories/
