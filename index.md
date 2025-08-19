@@ -4,6 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/photo1.jpg
+  excerpt: "Un sito dove trovare grafiche e foto di toni."
+
 ---
-{% include figure popup=true image_path="/assets/images/photo1.jpg" 
-# alt="this is a placeholder image" caption="This is a figure caption." %}
+
