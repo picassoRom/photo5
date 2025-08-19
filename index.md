@@ -5,3 +5,5 @@
 layout: splash
 author_profile: true
 ---
+{% include figure popup=true image_path="/assets/images/photo1.jpg" 
+# alt="this is a placeholder image" caption="This is a figure caption." %}
