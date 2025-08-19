@@ -6,7 +6,7 @@ title: "Sito di toni"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/photo1.jpg
-  background_size: contain
+  overlay_height: 60vh   # altezza header al 60% dell’altezza schermo
   background_position: center
   title: "Il mio portfolio fotografico"
   subtitle: "Catturo momenti unici e dettagli nascosti"
