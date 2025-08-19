@@ -60,17 +60,23 @@ plugins:
 author:
   name   : "Antonio Lioi"
   avatar : "/assets/images/photo2.jpg"
-  bio    : "Street photographer|Cercatore di dettagli|Raccoglitore di momenti che meritano un ricordo."
+bio: |
+  Street photographer
+  <div style="border-left:2px solid black; height:50px; margin:10px;"></div>
+  Cercatore di dettagli
+  <div style="border-left:2px solid black; height:50px; margin:10px;"></div>
+  Raccoglitore di momenti che meritano un ricordo.
+
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+   #label: "Website"
+      #icon: "fas fa-fw fa-link"
+      #url: "https://"
+    #label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+   #   url: "https://twitter.com/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+     # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/picasso_rom/"
@@ -85,8 +91,8 @@ footer:
       #url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://www.instagram.com/picasso_rom/"
+      
 defaults:
   # _posts
   - scope:
