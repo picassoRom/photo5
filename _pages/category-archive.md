@@ -1,6 +1,8 @@
 ---
 title: "Shop"
-layout: categories
+# layout: categories
 permalink: /Shop/
-author_profile: true
+# author_profile: true
 ---
+
+https://open.spotify.com/track/53Ggzk6QHzzsIeJnoOsDNk?si=d31bb834a88b4ba9
