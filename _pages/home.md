@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-hide_posta: true
+hide_posts: true
 title: "Sito di toni"
 header:
   overlay_color: "#5e616c"
