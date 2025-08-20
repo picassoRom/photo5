@@ -58,6 +58,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+collections:
+  portfolio:
+    output: true
+    # permalink: /:collection/:path/
+    permalink: /portfolio/:path/
+
+
 author:
   name   : "Antonio Lioi"
   avatar : "/assets/images/photo2.jpg"
@@ -113,6 +120,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+# photo portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: false
+
   # Applica splash layout alla home
   - scope:
       path: ""
