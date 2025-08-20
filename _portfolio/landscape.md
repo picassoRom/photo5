@@ -16,5 +16,5 @@ gallery:
 
 ---
 
-Qui puoi scrivere la descrizione lunga del progetto, inserire altre immagini, testi, link, ecc.
- {% include gallery caption="This is a sample gallery to go along with this case study." %}
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ {% include gallery caption="This is a sample gallery of landscape photos." %}
