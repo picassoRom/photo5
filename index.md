@@ -12,7 +12,7 @@ header:
   subtitle: "Catturo momenti unici e dettagli nascosti"
   excerpt: "Un sito dove trovare grafiche e foto di toni."
   actions:
-    - label: "Scopri di più"
-      url: "/about/"
+    - label: "About"
+      url: "/about"
 ---
 
