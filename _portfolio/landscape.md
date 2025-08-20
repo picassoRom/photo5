@@ -11,7 +11,7 @@ gallery:
     image_path: assets/images/photo1.jpg
     alt: "placeholder image 1"
   - url: /assets/images/photo2.jpg
-    image_path: assets/images/photo2jpg
+    image_path: assets/images/photo2.jpg
     alt: "placeholder image 2"
 
 ---
