@@ -1,6 +1,6 @@
 ---
-title: "Landscapes & Nature"
-excerpt: "Foto dei cazzo di landscapes."
+title: "Street photography"
+excerpt: "Per la street con la street."
 header:
   overlay_image: /assets/images/photo1.jpg
   teaser: /assets/images/photo1.jpg
@@ -16,5 +16,5 @@ gallery:
 
 ---
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa photos to remind yourself how beautiful nature can be, great for a poster when you live in a gray city.
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa photos to remind yourself how beautiful can be to live in a gray city.
  {% include gallery caption="This is a sample gallery of landscape photos." %}
