@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 hide_posts: true
-title: "Sito di toni"
+title: "Welcome collector, fan, photographer, artist, fratm, curious... "
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/photo1.jpg
