@@ -18,4 +18,4 @@ gallery:
 
 R.
 
- {% include gallery caption="This is a sample gallery of landscape photos." %}
+ {% include gallery caption="This is a sample gallery of R's stuff." %}

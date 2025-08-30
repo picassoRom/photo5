@@ -1,8 +1,8 @@
 main:
   - title: "Photos"
     url: /Photos/
-  - title: "Friends"
-    url: /Friends/
+  - title: "Friends/Artists"
+    url: /Friends_Artists/
   - title: "Shop"
     url: /Shop/
   - title: "Contact & Newsletter"

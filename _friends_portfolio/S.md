@@ -17,4 +17,4 @@ gallery:
 ---
 
 S
- {% include gallery caption="This is a sample gallery of landscape photos." %}
+ {% include gallery caption="This is a sample gallery of Salmolebon's art." %}
