@@ -71,16 +71,16 @@ collections:
     permalink: /:collection/:path/
 
 author:
-  name   : "Antonio Lioi"
-  avatar : "/assets/images/photo2.jpg"
-bio: |
-  Street photographer
-  <div style="border-left:2px solid black; height:50px; margin:10px;"></div>
-  Cercatore di dettagli
-  <div style="border-left:2px solid black; height:50px; margin:10px;"></div>
-  Raccoglitore di momenti che meritano un ricordo.
-
+  name: "Antonio Lioi"
+  avatar: "/assets/images/photo2.jpg"
+  bio: |
+    Street photographer  
+    Cercatore di dettagli  
+    Raccoglitore di momenti che meritano un ricordo.
   links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/picasso_rom/"
    # label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://"
@@ -90,9 +90,7 @@ bio: |
     # - label: "GitHub"
     #  icon: "fab fa-fw fa-github"
      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/picasso_rom/"
+
 
 footer:
   links:
