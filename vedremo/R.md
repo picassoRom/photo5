@@ -1,6 +1,6 @@
 ---
 title: "R"
-excerpt: "Someone special from...Monaco?"
+excerpt: "Someone from...Monaco?"
 header:
   overlay_image: /assets/images/photo1.jpg
   teaser: /assets/images/photo1.jpg
