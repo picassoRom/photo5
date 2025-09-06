@@ -1,11 +1,12 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+# Versione GitHub Pages compatibile
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
+# Per fusi orari su Windows/macOS
 gem "tzinfo-data"
-# gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# If you have any plugins, put them here!
+# Plugin ufficiali supportati da GitHub Pages
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
