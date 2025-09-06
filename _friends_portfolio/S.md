@@ -110,24 +110,3 @@ The idea is to use the following form to get in contact for prints and/or more i
 </form>
 
 
-<style>
-figure {
-  text-align: center;
-  margin: 2rem 0;
-}
-
-figure img {
-  max-width: 90%;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-}
-
-figcaption {
-  font-style: italic;
-  color: #555;
-  font-size: 0.95rem;
-  margin-top: 0.5rem;
-}
-</style>
-z
