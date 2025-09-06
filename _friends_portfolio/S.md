@@ -42,52 +42,52 @@ This is the gallery of [sunmoone](https://www.instagram.com/_sunmoone_/)'s art.
 
 <figure>
   <img src="/assets/images/salmolebon/1 (7).png" alt="1 (7)">
-  <figcaption> 🚬 </figcaption>
+  <figcaption> :smoking: </figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (8).png" alt="1 (8)">
-  <figcaption> 💀 </figcaption>
+  <figcaption> :skull: </figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (9).png" alt="1 (9)">
-  <figcaption> 😈 </figcaption>
+  <figcaption> :imp: </figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (10).png" alt="1 (10)">
-  <figcaption> 🏠 </figcaption>
+  <figcaption> :house: </figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (11).png" alt="1 (11)">
-  <figcaption>Foto 1 (11) 🌺</figcaption>
+  <figcaption> :thinking: </figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (12).png" alt="1 (12)">
-  <figcaption>Foto 1 (12) 🌸</figcaption>
+  <figcaption> :couple: </figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (13).png" alt="1 (13)">
-  <figcaption>Foto 1 (13) 🌿</figcaption>
+  <figcaption> :cry: </figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (14).png" alt="1 (14)">
-  <figcaption>Foto 1 (14) 🌾</figcaption>
+  <figcaption> :flushed: </figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (15).png" alt="1 (15)">
-  <figcaption>Foto 1 (15) 🌲</figcaption>
+  <figcaption> :yellow_heart: </figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (16).png" alt="1 (16)">
-  <figcaption>Foto 1 (16) 🌳</figcaption>
+  <figcaption> :movie_camera: </figcaption>
 </figure>
 
 
