@@ -11,7 +11,7 @@ gallery:
 - url: /assets/images/salmolebon/1 (1).png
   image_path: /assets/images/salmolebon/1 (1).png
   alt: "Foto 1"
-  title: "Image 1 title caption"
+  title: ""
 - url: /assets/images/salmolebon/1 (2).png
   image_path: /assets/images/salmolebon/1 (2).png
   alt: "Foto 2"
@@ -75,7 +75,7 @@ gallery:
 ---
 
 This is the gallery of [sunmoone](https://www.instagram.com/_sunmoone_/)'s art.
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="" %}
 ---
 
 
