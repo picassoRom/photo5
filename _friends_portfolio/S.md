@@ -20,10 +20,10 @@ This is the gallery of [sunmoone](https://www.instagram.com/_sunmoone_/)'s art.
   <figcaption> :moon: </figcaption>
 </figure>
 
-<figure>
-  <img src="/assets/images/salmolebon/1 (3).png" alt="1 (3)">
-  <figcaption> :green_heart: </figcaption>
-</figure>
+# <figure>
+#  <img src="/assets/images/salmolebon/1 (3).png" alt="1 (3)">
+#  <figcaption> :green_heart: </figcaption>
+# </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (4).png" alt="1 (4)">
@@ -80,10 +80,10 @@ This is the gallery of [sunmoone](https://www.instagram.com/_sunmoone_/)'s art.
   <figcaption>Foto 1 (14) 🌾</figcaption>
 </figure>
 
-<figure>
-  <img src="/assets/images/salmolebon/1 (15).png" alt="1 (15)">
-  <figcaption>Foto 1 (15) 🌲</figcaption>
-</figure>
+# <figure>
+#  <img src="/assets/images/salmolebon/1 (15).png" alt="1 (15)">
+#  <figcaption>Foto 1 (15) 🌲</figcaption>
+# </figure>
 
 <figure>
   <img src="/assets/images/salmolebon/1 (16).png" alt="1 (16)">
