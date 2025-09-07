@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/salmolebon/logo salmolebon - preview.jpg
 # sidebar:
  # - title: "Role"
+
 gallery:
 - url: /assets/images/salmolebon/1 (1).png
   image_path: /assets/images/salmolebon/1 (1).png
