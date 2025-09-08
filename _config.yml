@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Picasso Rom - Portfolio 
-logo: "/assets/images/drawing.png"
+logo: "/assets/images/WaterMarkToni-removebg_red_2.png"
 email:
 description: Portfolio & more from Picasso Rom 
 # this means to ignore newlines until "baseurl:"
@@ -74,8 +74,8 @@ author:
   name: "Antonio Lioi"
   avatar: "/assets/images/photo2.jpg"
   bio: |
-    Street photographer  
-    Seeker & Collector of the worthy.
+   Seeker & photographer /
+   Buscador y fotógrafo
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"

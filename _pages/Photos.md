@@ -17,6 +17,6 @@ classes: wide
 *"To photograph is to align the head, the eye, and the heart on the same line of sight."*        
 **Bresson, 1952**
 
-For me the concept of photography is very similar, here there is a representation of my personal line of sight.
+...here there is a representation of my personal line of sight...
 
 prova
