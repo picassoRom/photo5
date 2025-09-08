@@ -10,7 +10,7 @@ gallery:
   - url: /assets/images/Landscapes/land_1.jpg
     image_path: assets/images/Landscapes/land_1.jpg
     alt: ""
-  - url: /assets/images/Landscapes/land_1.jpg
+  - url: /assets/images/Landscapes/land_2.jpg
     image_path: assets/images/Landscapes/land_2.jpg
     alt: ""
 
