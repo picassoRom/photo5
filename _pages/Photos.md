@@ -18,5 +18,3 @@ classes: wide
 **Bresson, 1952**
 
 ...here there is a representation of my personal line of sight...
-
-prova
