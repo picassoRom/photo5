@@ -5,7 +5,7 @@ hide_posts: true
 title: "Welcome collector, fan, photographer, artist, fratm, curious... "
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/photo1.jpg
+  overlay_image: /assets/images/Street/street_5.png
   overlay_height: 40vh   # altezza header al 80% dell’altezza schermo
   background_position: center
   title: "Il mio portfolio fotografico"
