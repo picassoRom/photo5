@@ -7,14 +7,14 @@ header:
 # sidebar:
  # - title: "Role"
 gallery:
-  - url: /assets/images/Landscapes/land_1.jpg
-    image_path: assets/images/Landscapes/land_1.jpg
+  - url: /assets/images/Landscapes/land_1.png
+    image_path: assets/images/Landscapes/land_1.png
     alt: ""
     title: "L 1°<br><small> 30/30 copies available </small>"
-  - url: /assets/images/Landscapes/land_2.jpg
-    image_path: assets/images/Landscapes/land_2.jpg
+  - url: /assets/images/Landscapes/land_2.png
+    image_path: assets/images/Landscapes/land_2.png
     alt: ""
-    title: "L2°<br><small> 30/30 copies available </small>"
+    title: "L 2°<br><small> 30/30 copies available </small>"
 
 
 ---

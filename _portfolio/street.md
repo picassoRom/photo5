@@ -8,25 +8,33 @@ header:
 # sidebar:
  # - title: "Role"
 gallery:
-  - url: /assets/images/Street/street_1.JPG
-    image_path: /assets/images/Street/street_1.JPG
+  - url: /assets/images/Street/street_1.png
+    image_path: /assets/images/Street/street_1.png
     alt: ""
     title: "S 1°<br><small> 19/20 copies available </small>"
-  - url: /assets/images/Street/street_2.jpg
-    image_path: /assets/images/Street/street_2.jpg
+  - url: /assets/images/Street/street_2.png
+    image_path: /assets/images/Street/street_2.png
     alt: ""
     title: "S 2°<br><small> 20/20 copies available </small>"
-  - url: /assets/images/Street/street_3.jpg
-    image_path: /assets/images/Street/street_3.jpg
+  - url: /assets/images/Street/street_3.png
+    image_path: /assets/images/Street/street_3.png
     alt: ""
     title: "S 3°<br><small> 20/20 copies available </small>"
+  - url: /assets/images/Street/street_4.png
+    image_path: /assets/images/Street/street_4.png
+    alt: ""
+    title: "S 4°<br><small> 20/20 copies available </small>"
+  - url: /assets/images/Street/street_5.png
+    image_path: /assets/images/Street/street_5.png
+    alt: ""
+    title: "S 5°<br><small> 20/20 copies available </small>"
 
 ---
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa photos to remind yourself how beautiful can be to live in a gray city...
 
  {% include gallery caption="This is the gallery of my selected street photos, I like to present them in 1:1, square format, but this is purely a aesthetic little whim..." %}
-
+ 
 On this very first batch of photos I want to spread totally **20** copies each, to keep the print special and the choice personal...yes this constraint is also marketing...
 
 In case you feel something, you are interested, or just want to discuss, please use the following form to get in contact for more info:
